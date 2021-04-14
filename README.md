@@ -46,7 +46,7 @@ What are the benefits of Joomla?
 Is it easy to change the layout display?
 ---------------------
 * The layout is controlled by templates that you can edit.
-* There are a lot of ready-made professional templates that you can download.
+* There are lot of ready-made professional templates that you can download.
 * Template management information is [available here](https://docs.joomla.org/Special:MyLanguage/Portal:Template_Management).
 
 Ready to install Joomla?
